@@ -1,0 +1,26 @@
+{
+  "name": "nanoparts",
+  "version": "0.0.0",
+  "description": "Emit render for specific parts of the DOM",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard",
+    "start": "budo example/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/kodedninja/nanoparts"
+  },
+  "keywords": [
+    "choo"
+  ],
+  "author": "kodedninja",
+  "license": "MIT",
+  "dependencies": {
+    "nanocomponent": "^6.5.2"
+  },
+  "devDependencies": {
+    "budo": "^11.6.2",
+    "choo": "^6.13.3"
+  }
+}
