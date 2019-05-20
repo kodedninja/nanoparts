@@ -1,6 +1,6 @@
 {
   "name": "nanoparts",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Emit render for specific parts of the DOM",
   "main": "index.js",
   "scripts": {
